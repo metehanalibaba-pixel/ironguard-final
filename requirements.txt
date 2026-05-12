@@ -2,3 +2,4 @@ streamlit
 python-binance
 openai
 pandas-ta
+pandas
